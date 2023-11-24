@@ -1,0 +1,11 @@
+G:\workplace\GB\DevCSharp\HM1\TreeGenealogy\bin\Debug\net8.0\TreeGenealogy.deps.json
+G:\workplace\GB\DevCSharp\HM1\TreeGenealogy\bin\Debug\net8.0\TreeGenealogy.dll
+G:\workplace\GB\DevCSharp\HM1\TreeGenealogy\bin\Debug\net8.0\TreeGenealogy.pdb
+G:\workplace\GB\DevCSharp\HM1\TreeGenealogy\obj\Debug\net8.0\TreeGenealogy.GeneratedMSBuildEditorConfig.editorconfig
+G:\workplace\GB\DevCSharp\HM1\TreeGenealogy\obj\Debug\net8.0\TreeGenealogy.AssemblyInfoInputs.cache
+G:\workplace\GB\DevCSharp\HM1\TreeGenealogy\obj\Debug\net8.0\TreeGenealogy.AssemblyInfo.cs
+G:\workplace\GB\DevCSharp\HM1\TreeGenealogy\obj\Debug\net8.0\TreeGenealogy.csproj.CoreCompileInputs.cache
+G:\workplace\GB\DevCSharp\HM1\TreeGenealogy\obj\Debug\net8.0\TreeGenealogy.dll
+G:\workplace\GB\DevCSharp\HM1\TreeGenealogy\obj\Debug\net8.0\refint\TreeGenealogy.dll
+G:\workplace\GB\DevCSharp\HM1\TreeGenealogy\obj\Debug\net8.0\TreeGenealogy.pdb
+G:\workplace\GB\DevCSharp\HM1\TreeGenealogy\obj\Debug\net8.0\ref\TreeGenealogy.dll
